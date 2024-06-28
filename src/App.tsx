@@ -1,5 +1,6 @@
 import "./App.css";
 import { Catalog, Header, Navbar } from "./components";
+import PopularSwiper from "./components/PopularSwiper/PopularSwiper";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <Navbar />
         <Header />
         <Catalog />
+        <PopularSwiper />
       </div>
     </div>
   );

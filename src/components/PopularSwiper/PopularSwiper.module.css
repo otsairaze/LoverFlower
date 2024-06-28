@@ -1,0 +1,12 @@
+.title {
+  color: #fff;
+  text-align: center;
+}
+
+.desc {
+  text-align: center;
+}
+
+.inner {
+  display: flex;
+}

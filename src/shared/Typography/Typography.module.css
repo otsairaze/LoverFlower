@@ -2,36 +2,42 @@
   font-size: 200px;
   font-weight: 300;
   font-family: Cormorant;
+  color: #fff;
 }
 
 .light20 {
   font-size: 20px;
   font-weight: 300;
   font-family: Oswald;
+  color: #fff;
 }
 
 .regular14 {
   font-size: 14px;
   font-weight: 400;
   font-family: Oswald;
+  color: #fff;
 }
 
 .regular16 {
   font-size: 16px;
   font-weight: 400;
   font-family: Oswald;
+  color: #fff;
 }
 
 .regular20 {
   font-size: 20px;
   font-weight: 400;
   font-family: Cormorant;
+  color: #fff;
 }
 
 .regular100 {
   font-size: 100px;
   font-weight: 400;
   font-family: Cormorant;
+  color: #fff;
 }
 
 .bold30 {
