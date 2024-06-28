@@ -1,0 +1,47 @@
+.title {
+  line-height: 200px;
+  letter-spacing: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.inner {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  height: 1244px;
+}
+
+.img {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  height: 1244px;
+  width: 100%;
+}
+
+.desc {
+  color: #fff;
+  font-size: 20px;
+}
+
+.button {
+  color: #000000;
+  font-weight: 700;
+  font-family: Oswald;
+}
+
+.ellipse1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ellipse2 {
+  position: absolute;
+  top: 300px;
+  right: 0;
+}

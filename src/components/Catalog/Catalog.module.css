@@ -1,0 +1,49 @@
+.title {
+  letter-spacing: 5px;
+  color: #fff;
+}
+
+.desc {
+  color: #fff;
+  max-width: 515px;
+  margin-left: 95px;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.ellipse1 {
+  position: absolute;
+  left: -410px;
+  top: 0;
+  z-index: 0;
+}
+
+.ellipse2 {
+  position: absolute;
+  right: -410px;
+  top: 0;
+  z-index: 0;
+}
+
+.bouquet {
+  position: absolute;
+  right: -200px;
+  top: 0;
+  z-index: 0;
+}
+
+.flowers {
+  position: absolute;
+  left: -200px;
+  top: 260px;
+  z-index: 0;
+}
+
+.additionally {
+  position: absolute;
+  right: 0;
+  bottom: -500px;
+  z-index: 0;
+}

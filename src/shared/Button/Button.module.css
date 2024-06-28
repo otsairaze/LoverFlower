@@ -1,0 +1,15 @@
+.contained {
+  background-color: #43ffd2;
+  transition: all 0.2s ease-in-out;
+  &:hover {
+    background-color: #7d2253;
+    color: #fff;
+  }
+}
+
+.button {
+  padding: 16px 50px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
